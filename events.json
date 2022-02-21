@@ -1,0 +1,966 @@
+{
+	"table": "events",
+	"rows":
+	[
+		{
+			"date": "2022-02-01",
+			"title": "M1の田中がBasic SecCapカリキュラムにおいてJNSA学生賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": null,
+			"images": "{}"
+		},
+		{
+			"date": "2022-01-20",
+			"title": "M2の伊藤が2021年度情報セキュリティ研究奨励賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20220120_3.png,photo_20220120_5.jpg}"
+		},
+		{
+			"date": "2022-01-20",
+			"title": "D3の伊東がSCIS論文賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20220120_6.png}"
+		},
+		{
+			"date": "2021-12-10",
+			"title": "助教の上野とM2の齋藤と中嶋がハードウェアセキュリティ研究会若手優秀賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20211210_1.jpg,photo_20211210_2.jpg,photo_20211210_3.jpg}"
+		},
+		{
+			"date": "2021-12-10",
+			"title": "ハードウェアセキュリティフォーラム2021でM2の中嶋がポスター発表をしました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20211210_4.png,photo_20211210_5.png}"
+		},
+		{
+			"date": "2021-12-07",
+			"title": "オンラインで開催されたASIACRYPT2021で研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#1",
+			"images": "{}"
+		},
+		{
+			"date": "2021-11-19",
+			"title": "国際学術論文誌 IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) に研究成果が2件掲載されました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#1",
+			"images": "{}"
+		},
+		{
+			"date": "2021-11-12",
+			"title": "オンラインで開催された情報セキュリティ研究会でM2伊藤が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20211112.jpg}"
+		},
+		{
+			"date": "2021-10-19",
+			"title": "オンラインで開催された第16回ハードウェアセキュリティ研究会でM2板橋とM2齋藤が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20211019_1.jpg,photo_20211019_2.jpg}"
+		},
+		{
+			"date": "2021-09-30",
+			"title": "M2伊藤が令和三年度ハードウェアセキュリティサマーセミナーで最優秀ポスター賞を受賞しました。",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20210930.jpg}"
+		},
+		{
+			"date": "2021-09-12",
+			"title": "オンラインで開催された第44回多値論理フォーラムでM2板橋が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20210912_1.png,photo_20210912_2.png}"
+		},
+		{
+			"date": "2021-09-10",
+			"title": "オンラインにてNAISTの林研と合同でサマーセミナーを開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20210910.png}"
+		},
+		{
+			"date": "2021-08-26",
+			"title": "オンラインで開催された第34回回路とシステムワークショップでM2伊藤が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20210826_1.png,photo_20210826_2.png}"
+		},
+		{
+			"date": "2021-07-19",
+			"title": "オンラインで開催された第15回ハードウェアセキュリティ研究会で上野助教とD3伊東が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2021-06-03",
+			"title": "B4の研修最終発表を行いました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20210603_1.png,photo_20210603_2.png,photo_20210603_3.png}"
+		},
+		{
+			"date": "2021-04-12",
+			"title": "東京とオンラインでハイブリッド開催された第14回ハードウェアセキュリティ研究会で上野助教とD3伊東が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2021-04-09",
+			"title": "B4の研修中間発表を行いました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": null,
+			"images": "{}"
+		},
+		{
+			"date": "2021-03-26",
+			"title": "オンラインにてKU LeuvenのVerbauwhede教授らのグループと合同セミナーを開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20210326.jpg}"
+		},
+		{
+			"date": "2021-03-25",
+			"title": "M2の5名，B4の3名に学位記が授与されました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20210325_1.jpg,photo_20210325_2.jpg}"
+		},
+		{
+			"date": "2021-03-15",
+			"title": "B4の卒論発表を行いました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20210315_1.jpg,photo_20210315_2.jpg,photo_20210315_3.jpg,photo_20210315_4.jpg}"
+		},
+		{
+			"date": "2021-03-04",
+			"title": "オンラインで開催された第13回ハードウェアセキュリティ研究会でM2小田とM1中嶋が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2021-02-12",
+			"title": "ヴィッレ助教の送別会を行いました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20210212_1.jpg,photo_20210212_2.jpg,photo_20210212_3.jpg,photo_20210212_4.jpg}"
+		},
+		{
+			"date": "2021-02-02",
+			"title": "上野助教と本間教授の解説記事が月刊自動認識にて掲載されました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2021-01-22",
+			"title": "オンラインで開催されたSCIS2021でD2伊東とM2小田が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20210122_1.png,photo_20210122_2.png}"
+		},
+		{
+			"date": "2021-01-19",
+			"title": "M2大澤が2020年度情報セキュリティ研究奨励賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2021-01-12",
+			"title": "「メンバー」のページを更新しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "members",
+			"images": "{}"
+		},
+		{
+			"date": "2021-01-09",
+			"title": "本間尚文教授が多値論理研究会貢献賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2020-11-09",
+			"title": "宮崎とオンラインでハイブリッド開催されたISMVL2020で上野助教，D2伊東が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20201109_1.png,photo_20201109_2.jpg,photo_20201109_3.jpg,photo_20201109_4.jpg}"
+		},
+		{
+			"date": "2020-11-04",
+			"title": "オンラインで開催されたICCAD2020でヴィッレ助教が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20201104_1.jpg,photo_20201104_2.jpg}"
+		},
+		{
+			"date": "2020-10-28",
+			"title": "オンラインで開催された第64回宇宙科学技術連合講演会でM2藤井が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2020-10-26",
+			"title": "オンラインで開催された第12回ハードウェアセキュリティ研究会でD2伊東，M2柳生が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2020-10-16",
+			"title": "オンラインで開催されたISCAS2020でM2小田が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20201016_1.jpg,photo_20201016_2.png}"
+		},
+		{
+			"date": "2020-10-07",
+			"title": "オンライン国際会議 International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE) で上野助教が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#1",
+			"images": "{}"
+		},
+		{
+			"date": "2020-09-25",
+			"title": "オンラインにてNAISTの林研と合同でサマーセミナーを開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20200925_1.png,photo_20200925_2.png}"
+		},
+		{
+			"date": "2020-09-16",
+			"title": "オンライン国際会議 International Conference on Cryptographic Hardware and Embedded Systems (CHES) で上野助教が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": null,
+			"images": "{}"
+		},
+		{
+			"date": "2020-09-05",
+			"title": "オンラインで開催された第43回多値論理フォーラムでD2伊東が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2020-08-31",
+			"title": "オンライン国際会議 IEEE Symposium on Integrated Circuits and Systems (ISICAS)で上野助教が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "",
+			"images": "{}"
+		},
+		{
+			"date": "2020-08-27",
+			"title": "国際学術論文誌 IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) に研究成果が掲載されました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#1",
+			"images": "{}"
+		},
+		{
+			"date": "2020-08-03",
+			"title": "国際学術論文誌 IEEE Transactions on Circuits and Systems II (IEEE TCAS II) に研究成果が掲載されました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#1",
+			"images": "{}"
+		},
+		{
+			"date": "2020-07-21",
+			"title": "オンライン会議サマーセキュリティサミット2020でM2大澤，永戸，M1小関が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2020-05-15",
+			"title": "本間教授と上野助教の解説記事が情報処理学会誌にて掲載されました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2020-04-03",
+			"title": "「メンバー」のページを更新しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "members",
+			"images": "{}"
+		},
+		{
+			"date": "2020-03-25",
+			"title": "B4小関が東北大学工学部長賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2020-03-25",
+			"title": "M2の4名，B4の3名に学位記が授与されました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20200325_1.jpg,photo_20200325_2.jpg}"
+		},
+		{
+			"date": "2020-03-17",
+			"title": "B4の卒論発表と追いコンを行いました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20200317_1.jpg,photo_20200317_2.jpg}"
+		},
+		{
+			"date": "2020-02-27",
+			"title": "上野助教が2019年度船井研究奨励賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2020-02-04",
+			"title": "ベルギーKU LeuvenからIngrid Verbauwhede教授をお招きしたセミナーを開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20200204_1.jpg,photo_20200204_2.jpg}"
+		},
+		{
+			"date": "2020-01-28",
+			"title": "高知で開催されたSCIS2020で上野助教，D1伊東，M2数森，M1小田が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20200128_1.jpg,photo_20200128_2.jpg,photo_20200128_3.jpg,photo_20200128_4.jpg}"
+		},
+		{
+			"date": "2020-01-11",
+			"title": "兵庫県立大学で開催された第33回多値論理とその応用研究会で上野助教とD1伊東が発表し，伊東が奨励賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20200112_1.jpg,photo_20200112_2.jpg}"
+		},
+		{
+			"date": "2019-12-20",
+			"title": "B4の中間発表と忘年会を行いました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20191220_1.jpg,photo_20191220_2.jpg}"
+		},
+		{
+			"date": "2019-12-06",
+			"title": "D1伊東とM2門脇がハードウェアセキュリティ研究会若手優秀賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20191206_1.jpg,photo_20191206_2.jpg}"
+		},
+		{
+			"date": "2019-11-09",
+			"title": "電気・情報系駅伝大会に参加しました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20191109_1.jpg,photo_20191109_2.jpg,photo_20191109_3.jpg,photo_20191109_4.jpg}"
+		},
+		{
+			"date": "2019-11-01",
+			"title": "大阪で開催された第7回ハードウェアセキュリティ研究会でM2門脇，船越が研究成果を発表しました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20191101_1.jpg,photo_20191101_2.jpg}"
+		},
+		{
+			"date": "2019-10-03",
+			"title": "霊屋橋の下で芋煮を開催しました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20191003_1.jpg,photo_20191003_2.jpg}"
+		},
+		{
+			"date": "2019-09-26",
+			"title": "長野県軽井沢にてNAISTの林研と合同でサマーセミナーを開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190926_1.jpg,photo_20190926_2.jpg,photo_20190926_3.jpg,photo_20190926_4.jpg}"
+		},
+		{
+			"date": "2019-09-14",
+			"title": "宮崎で開催された第42回多値論理フォーラムでD1伊東とM2数森が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2019-09-07",
+			"title": "東北大学で開催されたハッカソン仙台にD1伊東が参加し，NICT賞を受賞しました. ",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190907_1.jpg,photo_20190907_2.jpg}"
+		},
+		{
+			"date": "2019-08-29",
+			"title": "B4の院試打ち上げと大掃除を行いました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190829_1.jpg,photo_20190829_2.jpg}"
+		},
+		{
+			"date": "2019-08-22",
+			"title": "秋田大学で開催された電気関係学会東北支部連合大会にM1大澤，小田，永戸が研究成果を発表しました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190822_1.jpg,photo_20190822_2.jpg,photo_20190822_3.jpg,photo_20190822_4.jpg}"
+		},
+		{
+			"date": "2019-07-23",
+			"title": "高知工科大学で開催されたセキュリティサマーサミット2019で上野助教とD1伊東が研究成果を発表しました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190723_1.jpg,photo_20190723_2.jpg}"
+		},
+		{
+			"date": "2019-07-03",
+			"title": "B4の研修最終発表と打ち上げを行いました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190703_1.jpg,photo_20190703_2.jpg,photo_20190703_3.jpg,photo_20190703_4.jpg}"
+		},
+		{
+			"date": "2019-07-02",
+			"title": "NAISTからYoungwoo Kim先生をお招きしたセミナーを開催しました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190702_1.jpg,photo_20190702_2.jpg}"
+		},
+		{
+			"date": "2019-05-21",
+			"title": "カナダで開催されたISMVL2019でM2数森が研究成果を発表しました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190521_1.jpg,photo_20190521_2.jpg,photo_20190521_3.jpg,photo_20190521_4.jpg}"
+		},
+		{
+			"date": "2019-05-14",
+			"title": "東京大学で開催されたLSIとシステムのワークショップ2019でD1伊東が研究成果を発表しました.",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2019-05-10",
+			"title": "フランスTelecom ParisTechからJean-Luc Danger教授をお招きしたセミナーを開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190510_1.jpg,photo_20190510_2.jpg}"
+		},
+		{
+			"date": "2019-04-12",
+			"title": "東北大学で開催された第5回ハードウェアセキュリティ研究会でM2澤田石が研究成果を発表しました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190412_1.jpg,photo_20190412_2.jpg}"
+		},
+		{
+			"date": "2019-04-11",
+			"title": "本間研新メンバーの歓迎会＆花見をしました.",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190411_1.jpg,photo_20190411_2.jpg,photo_20190411_3.jpg,photo_20190411_4.jpg}"
+		},
+		{
+			"date": "2019-04-01",
+			"title": "「メンバー」のページを更新しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "members",
+			"images": "{}"
+		},
+		{
+			"date": "2019-03-27",
+			"title": "D3の1名，M2の5名，B4の3名に学位記が授与されました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190327_1.jpg}"
+		},
+		{
+			"date": "2019-03-14",
+			"title": "作並温泉で追い旅行をしました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190314_1.jpg,photo_20190314_2.jpg,photo_20190314_3.jpg,photo_20190314_4.jpg}"
+		},
+		{
+			"date": "2019-03-04",
+			"title": "フランスTelecom ParisTechのUlrich Kuhne先生をお招きしたセミナーを開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190304_1.jpg,photo_20190304_2.jpg}"
+		},
+		{
+			"date": "2019-03-01",
+			"title": "算術演算ハードウェアの自動合成システム (Arithmetic Module Generator: AMG) を公開しました．本システムは，これまで東北大学青木研究室で開発・公開していたシステムを，研究グループの異動に伴って引き継いだものです．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "topics/amg",
+			"images": "{}"
+		},
+		{
+			"date": "2019-01-22",
+			"title": "滋賀県大津市で開催されたSCIS2019でD3ヴィッレ，M2伊東，上野助教が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190122_1.jpg,photo_20190122_2.jpg}"
+		},
+		{
+			"date": "2019-01-12",
+			"title": "東工大で開催された第32回多値論理とその応用研究会で上野助教が発表し，宮田が奨励賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20190112_1.jpg,photo_20190112_2.jpg}"
+		},
+		{
+			"date": "2018-12-26",
+			"title": "B4中間発表＆忘年会を行いました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20181226_1.jpg,photo_20181226_2.jpg}"
+		},
+		{
+			"date": "2018-11-10",
+			"title": "青木研と合同で駅伝に参加しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20181110_1.jpg,photo_20181110_2.jpg}"
+		},
+		{
+			"date": "2018-10-29",
+			"title": "神戸大学で開催された第3回ハードウェアセキュリティ研究会でM2遠藤，森が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20181029_1.jpg,photo_20181029_2.jpg}"
+		},
+		{
+			"date": "2018-09-27",
+			"title": "奈良県の生駒山麓公園ふれあいセンターでNAISTの林研と合同でサマーセミナーを開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180927_1.jpg,photo_20180927_2.jpg,photo_20180927_3.jpg,photo_20180927_4.jpg}"
+		},
+		{
+			"date": "2018-09-21",
+			"title": "研究室で芋煮会を開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180921_1.jpg,photo_20180921_2.jpg}"
+		},
+		{
+			"date": "2018-09-15",
+			"title": "広島で開催された第41回多値論理フォーラムでM2小岩，宮田，M1数森が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180915_1.jpg,photo_20180915_2.jpg}"
+		},
+		{
+			"date": "2018-09-13",
+			"title": "オランダで開催されたPROOFS@CHES2018でM2伊東が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180913_1.jpg,photo_20180913_2.jpg}"
+		},
+		{
+			"date": "2018-09-06",
+			"title": "岩手大学で開催された電気関係学会東北支部連合大会でM1数森，澤田石，船越が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180906_1.jpg,photo_20180906_2.jpg,photo_20180906_3.jpg,photo_20180906_4.jpg}"
+		},
+		{
+			"date": "2018-08-29",
+			"title": "B4の院試打ち上げを行いました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180829_1.jpg,photo_20180829_2.jpg}"
+		},
+		{
+			"date": "2018-07-24",
+			"title": "札幌コンベンションセンターで開催された夏のセキュリティワークショップでM2伊東が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180724_1.jpg,photo_20180724_2.jpg}"
+		},
+		{
+			"date": "2018-07-06",
+			"title": "B4の研修最終発表と打ち上げを行いました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180706_1.jpg,photo_20180706_2.jpg}"
+		},
+		{
+			"date": "2018-06-26",
+			"title": "本間教授がGerman Innovation Award  Gottfried Wagener Prize 2018を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2018-06-20",
+			"title": "M2遠藤が情報処理学会東北支部奨励賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2018-05-15",
+			"title": "オーストリアで開催されたISMVL2018で上野助教とM2伊東が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180515_1.jpg,photo_20180515_2.jpg,photo_20180515_3.jpg,photo_20180515_4.jpg}"
+		},
+		{
+			"date": "2018-05-14",
+			"title": "東京大学で開催されたLSIとシステムのワークショップ2018でM2宮田とM1船越が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2018-05-14",
+			"title": "シンガポールで開催されたEMCでD3ヴィッレとM2小岩が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180514_1.jpg,photo_20180514_2.jpg,photo_20180514_3.jpg,photo_20180514_4.jpg}"
+		},
+		{
+			"date": "2018-04-23",
+			"title": "シンガポールで開催されたCOSADE2018で上野助教が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180423_1.jpg,photo_20180423_2.jpg}"
+		},
+		{
+			"date": "2018-04-13",
+			"title": "九州大学で開催された第1回ハードウェアセキュリティ研究会で上野助教が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": null,
+			"images": "{}"
+		},
+		{
+			"date": "2018-04-05",
+			"title": "本間研新メンバーの歓迎会＆花見をしました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180405_1.jpg,photo_20180405_2.jpg,photo_20180405_3.jpg,photo_20180405_4.jpg}"
+		},
+		{
+			"date": "2018-04-01",
+			"title": "「メンバー」のページを更新しました.",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "members",
+			"images": "{}"
+		},
+		{
+			"date": "2018-03-27",
+			"title": "D3上野が東北大学総長賞および情報科学研究科長賞を受賞しました.",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2018-03-26",
+			"title": "B4船越が東北大学工学部長賞を受賞しました.",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2018-03-20",
+			"title": "東京電機大学で開催された電子情報通信学会総合大会でM1小岩が研究成果を発表しました.",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#2",
+			"images": "{}"
+		},
+		{
+			"date": "2018-03-16",
+			"title": "秋保温泉にてB4，M2，D3の追い旅行をしてきました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180316_1.jpg,photo_20180316_2.jpg,photo_20180316_3.jpg,photo_20180316_4.jpg}"
+		},
+		{
+			"date": "2018-03-14",
+			"title": "本間教授が第50回市村学術賞貢献賞を受賞しました.",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2018-02-07",
+			"title": "本間教授が第14回本学術振興会賞を受賞しました.",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2018-02-01",
+			"title": "ベルギー・KU LeuvenのIngrid Verbauwhede教授，神戸大学の永田真教授，NAISTの林優一教授らをお招きしたセミナーを開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180201_1.jpg,photo_20180201_2.jpg,photo_20180201_3.jpg,photo_20180201_4.jpg}"
+		},
+		{
+			"date": "2018-01-23",
+			"title": "新潟の朱鷺メッセで開催されたSCIS2018でD3上野，D2ヴィッレ，M2鈴木，忍田が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20180123_1.jpg,photo_20180123_2.jpg,photo_20180123_3.jpg,photo_20180123_4.jpg}"
+		},
+		{
+			"date": "2017-12-22",
+			"title": "忘年会 兼 B4中間発表打ち上げをしました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20171222_1.jpg,photo_20171222_2.jpg}"
+		},
+		{
+			"date": "2017-12-15",
+			"title": "東京大学で開催されたハードウェアセキュリティフォーラム2017でM1伊東と宮田が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20171215_1.jpg,photo_20171215_2.jpg,photo_20171215_3.jpg,photo_20171215_4.jpg}"
+		},
+		{
+			"date": "2017-11-26",
+			"title": "青木（孝）研と合同で電気・情報系の駅伝大会に参加しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20171126_1.jpg,photo_20171126_2.jpg}"
+		},
+		{
+			"date": "2017-10-31",
+			"title": "D3上野がRIEC Award 学生賞を受賞しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2017-10-19",
+			"title": "宮城・山形風による芋煮会を開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20171019_1.jpg,photo_20171019_2.jpg}"
+		},
+		{
+			"date": "2017-10-01",
+			"title": "フランスTelecom ParisTechからJean-Luc Danger教授をお招きしたセミナーを開催しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20171001_1.jpg,photo_20171001_2.jpg}"
+		},
+		{
+			"date": "2017-09-26",
+			"title": "台北で本間教授がプログラム委員長を務めた国際会議CHESが開催されました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20170926_1.jpg,photo_20170926_2.jpg}"
+		},
+		{
+			"date": "2017-09-17",
+			"title": "第40回多値論理フォーラムでM1遠藤と伊東が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20170917_1.jpg,photo_20170917_2.jpg,photo_20170917_3.jpg,photo_20170917_4.jpg}"
+		},
+		{
+			"date": "2017-09-15",
+			"title": "東京大学で開催されたハードウェアセキュリティ研究会でM2鈴木が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20170915_1.jpg,photo_20170915_2.jpg}"
+		},
+		{
+			"date": "2017-08-24",
+			"title": "電気関係学会東北支部連合大会でM1遠藤と伊東が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20170824_1.jpg,photo_20170824_2.jpg}"
+		},
+		{
+			"date": "2017-07-28",
+			"title": "奈良先端科学技術大学院大学(NAIST)の林研と合同でサマーセミナーを行いました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20170728_1.jpg,photo_20170728_2.jpg}"
+		},
+		{
+			"date": "2017-06-30",
+			"title": "B4が研修の最終発表を行い，打ち上げをしました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20170630_1.jpg,photo_20170630_2.jpg,photo_20170630_3.jpg,photo_20170630_4.jpg}"
+		},
+		{
+			"date": "2017-05-24",
+			"title": "ノヴィ・サド（セルビア）で開催されたISMVL2017でD3上野が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20170524_1.jpg,photo_20170524_2.jpg,photo_20170524_3.jpg,photo_20170524_4.jpg}"
+		},
+		{
+			"date": "2017-05-23",
+			"title": "D3上野がISMVL2017でKenneth C. Smith Early Career Award in Microelectronicsを受賞しました.",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "publications#3",
+			"images": "{}"
+		},
+		{
+			"date": "2017-04-30",
+			"title": "パリで開催されたEuroS&amp;PとEUROCRYPTのジョイントワークショップSEMSでD3上野が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20170430_1.jpg,photo_20170430_2.jpg,photo_20170430_3.jpg,photo_20170430_4.jpg}"
+		},
+		{
+			"date": "2017-04-18",
+			"title": "新配属のメンバーの歓迎会＆お花見をしました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20170418_1.jpg,photo_20170418_2.jpg,photo_20170418_3.jpg,photo_20170418_4.jpg}"
+		},
+		{
+			"date": "2017-04-14",
+			"title": "パリで開催された国際会議COSADE2017でD3上野，M2鈴木が研究成果を発表しました．",
+			"disp_index": "true",
+			"disp_event": "true",
+			"link": "events",
+			"images": "{photo_20170414_1.jpg,photo_20170414_2.jpg,photo_20170414_3.jpg,photo_20170414_4.jpg}"
+		},
+		{
+			"date": "2017-04-01",
+			"title": "本間研のWebサイトを開設しました．",
+			"disp_index": "true",
+			"disp_event": "false",
+			"link": "",
+			"images": "{}"
+		}
+	]
+}
